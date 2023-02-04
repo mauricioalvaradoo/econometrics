@@ -1,4 +1,4 @@
-# Estudio de las principales herramientas para el estudio de corte transversal
+# Corte transversal
 Exploración y modelamiento de variables mediante corte trasversal y datos panel. La principal guía del proyecto será el API Reference de la librería `statsmodels`: https://www.statsmodels.org/stable/api.html
 
 <p align="center">
