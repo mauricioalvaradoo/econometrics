@@ -1,0 +1,401 @@
+,apply,pared,public,gpa
+0,very likely,0,0,3.26
+1,somewhat likely,1,0,3.21
+2,unlikely,1,1,3.94
+3,somewhat likely,0,0,2.81
+4,somewhat likely,0,0,2.53
+5,unlikely,0,1,2.59
+6,somewhat likely,0,0,2.56
+7,somewhat likely,0,0,2.73
+8,unlikely,0,0,3.0
+9,somewhat likely,1,0,3.5
+10,unlikely,1,1,3.65
+11,somewhat likely,0,0,2.84
+12,very likely,0,1,3.9
+13,somewhat likely,0,0,2.68
+14,unlikely,1,0,3.57
+15,unlikely,0,0,3.09
+16,unlikely,0,1,3.5
+17,unlikely,0,0,2.17
+18,very likely,0,1,3.36
+19,somewhat likely,0,0,3.4
+20,very likely,0,0,2.75
+21,somewhat likely,1,0,3.2
+22,unlikely,0,0,2.44
+23,unlikely,0,0,2.83
+24,unlikely,0,1,3.0
+25,somewhat likely,0,1,3.27
+26,somewhat likely,1,0,3.14
+27,somewhat likely,0,0,3.37
+28,very likely,0,1,2.79
+29,unlikely,0,0,2.9
+30,somewhat likely,0,0,3.38
+31,unlikely,0,1,2.95
+32,unlikely,0,0,2.98
+33,unlikely,1,1,3.81
+34,unlikely,0,0,2.74
+35,unlikely,0,0,2.62
+36,unlikely,0,0,2.85
+37,somewhat likely,0,0,2.5
+38,somewhat likely,0,0,2.75
+39,unlikely,0,0,2.26
+40,unlikely,0,0,2.03
+41,somewhat likely,1,0,2.85
+42,unlikely,0,0,2.72
+43,somewhat likely,0,0,2.89
+44,somewhat likely,1,0,2.47
+45,unlikely,0,0,3.04
+46,unlikely,0,0,3.1
+47,unlikely,0,0,2.57
+48,unlikely,0,0,2.09
+49,somewhat likely,0,0,2.94
+50,unlikely,0,0,3.45
+51,unlikely,0,0,2.76
+52,very likely,0,1,2.96
+53,unlikely,0,0,2.89
+54,somewhat likely,0,0,2.97
+55,somewhat likely,0,1,3.91
+56,somewhat likely,0,0,2.77
+57,unlikely,0,0,2.51
+58,unlikely,0,0,3.24
+59,unlikely,0,0,2.44
+60,somewhat likely,0,0,2.78
+61,unlikely,0,0,2.94
+62,unlikely,1,0,3.22
+63,unlikely,0,0,3.5
+64,very likely,1,0,3.57
+65,somewhat likely,0,0,3.17
+66,unlikely,0,1,3.23
+67,unlikely,0,0,2.91
+68,unlikely,0,0,3.28
+69,unlikely,0,1,3.32
+70,unlikely,0,0,3.62
+71,unlikely,0,0,2.55
+72,unlikely,0,0,2.97
+73,very likely,1,0,3.63
+74,unlikely,0,1,3.02
+75,unlikely,0,1,3.6
+76,unlikely,0,0,2.95
+77,very likely,1,1,3.81
+78,somewhat likely,1,0,2.68
+79,unlikely,1,0,3.72
+80,unlikely,0,0,2.49
+81,unlikely,0,0,2.72
+82,unlikely,1,0,2.25
+83,unlikely,0,0,2.53
+84,unlikely,0,0,3.26
+85,very likely,0,0,2.57
+86,unlikely,0,0,2.9
+87,unlikely,0,0,3.05
+88,somewhat likely,0,0,2.85
+89,somewhat likely,0,0,4.0
+90,very likely,1,0,3.4
+91,somewhat likely,0,1,3.24
+92,unlikely,0,1,3.51
+93,very likely,0,0,2.55
+94,unlikely,0,0,3.06
+95,very likely,0,0,3.0
+96,somewhat likely,0,0,3.13
+97,unlikely,0,0,3.16
+98,somewhat likely,0,0,2.47
+99,somewhat likely,0,0,2.89
+100,unlikely,0,0,2.74
+101,unlikely,0,0,3.16
+102,unlikely,0,0,2.92
+103,somewhat likely,0,0,3.57
+104,somewhat likely,1,0,3.49
+105,somewhat likely,0,1,2.56
+106,somewhat likely,1,0,3.12
+107,somewhat likely,1,0,2.65
+108,somewhat likely,0,0,2.51
+109,somewhat likely,0,0,3.08
+110,somewhat likely,0,0,2.65
+111,unlikely,0,0,2.99
+112,unlikely,0,0,2.63
+113,somewhat likely,0,0,2.8
+114,somewhat likely,0,1,3.46
+115,unlikely,0,0,3.61
+116,unlikely,0,0,3.08
+117,unlikely,1,0,3.28
+118,unlikely,0,1,3.31
+119,unlikely,0,0,2.57
+120,somewhat likely,0,0,3.39
+121,unlikely,0,0,2.26
+122,unlikely,0,0,2.42
+123,unlikely,0,0,2.6
+124,somewhat likely,1,1,3.44
+125,somewhat likely,0,0,2.98
+126,somewhat likely,1,0,3.09
+127,unlikely,0,1,3.34
+128,unlikely,0,0,2.84
+129,unlikely,0,0,2.81
+130,unlikely,0,0,2.79
+131,unlikely,0,0,2.4
+132,unlikely,0,0,3.02
+133,somewhat likely,0,0,2.65
+134,somewhat likely,0,0,2.55
+135,somewhat likely,1,0,3.12
+136,unlikely,0,0,2.98
+137,very likely,1,0,3.61
+138,unlikely,0,0,2.98
+139,unlikely,0,0,3.19
+140,unlikely,0,0,3.51
+141,unlikely,0,0,3.1
+142,unlikely,0,0,3.55
+143,unlikely,0,0,2.98
+144,very likely,0,0,2.99
+145,unlikely,0,0,3.05
+146,unlikely,0,0,2.99
+147,unlikely,0,0,2.32
+148,unlikely,0,0,2.5
+149,unlikely,0,1,2.9
+150,very likely,1,1,3.28
+151,somewhat likely,0,0,2.95
+152,somewhat likely,0,0,3.54
+153,somewhat likely,0,0,3.11
+154,unlikely,1,0,3.25
+155,unlikely,0,0,2.44
+156,unlikely,0,0,2.13
+157,somewhat likely,0,0,3.22
+158,somewhat likely,0,0,3.16
+159,unlikely,0,0,3.39
+160,somewhat likely,0,0,2.7
+161,somewhat likely,0,0,3.09
+162,somewhat likely,0,0,3.16
+163,unlikely,0,0,2.28
+164,unlikely,0,0,2.91
+165,unlikely,0,0,3.65
+166,unlikely,0,0,2.86
+167,unlikely,0,1,3.39
+168,unlikely,0,0,3.71
+169,unlikely,0,0,3.25
+170,unlikely,0,0,3.14
+171,unlikely,0,0,2.41
+172,somewhat likely,0,0,3.08
+173,unlikely,0,1,3.02
+174,somewhat likely,0,0,3.15
+175,very likely,0,0,2.95
+176,unlikely,0,0,2.22
+177,somewhat likely,0,0,2.86
+178,somewhat likely,1,0,2.88
+179,very likely,0,0,2.62
+180,unlikely,0,0,3.37
+181,somewhat likely,0,0,3.51
+182,somewhat likely,0,0,3.65
+183,very likely,1,0,3.42
+184,very likely,0,0,2.41
+185,very likely,0,1,3.21
+186,unlikely,0,0,3.22
+187,unlikely,0,0,2.53
+188,somewhat likely,0,0,2.64
+189,unlikely,0,0,2.94
+190,somewhat likely,0,0,2.56
+191,unlikely,0,1,3.12
+192,somewhat likely,0,0,3.34
+193,unlikely,0,0,3.22
+194,somewhat likely,0,0,3.05
+195,somewhat likely,0,0,3.29
+196,somewhat likely,0,0,2.71
+197,unlikely,0,0,2.87
+198,unlikely,0,0,3.29
+199,unlikely,0,0,3.36
+200,unlikely,1,1,2.85
+201,unlikely,0,0,2.79
+202,somewhat likely,0,0,3.69
+203,very likely,0,0,3.56
+204,unlikely,0,0,3.52
+205,unlikely,1,1,3.38
+206,very likely,0,1,3.11
+207,somewhat likely,1,0,3.2
+208,unlikely,0,0,2.83
+209,unlikely,0,0,3.08
+210,very likely,0,1,2.97
+211,unlikely,0,0,2.64
+212,unlikely,0,0,2.47
+213,very likely,0,0,3.07
+214,somewhat likely,0,0,3.2
+215,unlikely,0,0,2.55
+216,unlikely,0,0,2.48
+217,unlikely,0,0,3.29
+218,somewhat likely,0,0,2.64
+219,somewhat likely,0,0,3.22
+220,somewhat likely,1,0,2.8
+221,somewhat likely,0,0,3.62
+222,unlikely,0,0,2.62
+223,somewhat likely,0,1,3.04
+224,unlikely,0,1,2.49
+225,unlikely,0,1,3.1
+226,very likely,1,0,3.15
+227,somewhat likely,0,0,2.65
+228,unlikely,0,0,3.04
+229,unlikely,0,1,3.05
+230,unlikely,0,0,2.88
+231,somewhat likely,0,0,2.86
+232,somewhat likely,0,0,3.0
+233,unlikely,0,0,2.23
+234,unlikely,0,1,3.14
+235,unlikely,0,0,2.67
+236,unlikely,0,0,3.11
+237,somewhat likely,0,0,3.73
+238,somewhat likely,0,0,2.45
+239,unlikely,0,0,3.04
+240,unlikely,0,0,2.4
+241,somewhat likely,0,0,3.43
+242,somewhat likely,0,0,2.57
+243,unlikely,0,0,2.84
+244,unlikely,0,0,2.67
+245,very likely,1,1,3.45
+246,somewhat likely,1,0,2.88
+247,somewhat likely,0,0,2.78
+248,unlikely,0,0,3.22
+249,unlikely,1,0,3.3
+250,somewhat likely,1,0,2.86
+251,somewhat likely,0,0,2.83
+252,somewhat likely,0,0,3.7
+253,somewhat likely,0,0,3.15
+254,somewhat likely,1,1,3.08
+255,unlikely,0,0,2.92
+256,unlikely,0,0,2.89
+257,very likely,1,0,3.53
+258,unlikely,0,0,3.1
+259,somewhat likely,1,0,3.36
+260,somewhat likely,0,0,2.74
+261,somewhat likely,0,0,2.73
+262,unlikely,1,0,2.72
+263,unlikely,0,0,3.53
+264,unlikely,1,0,3.45
+265,unlikely,0,0,2.98
+266,somewhat likely,0,0,2.88
+267,very likely,1,0,3.21
+268,unlikely,0,0,3.06
+269,unlikely,0,0,2.4
+270,somewhat likely,0,0,3.57
+271,unlikely,1,0,2.88
+272,unlikely,0,0,3.27
+273,unlikely,0,0,2.92
+274,very likely,0,0,2.7
+275,somewhat likely,1,0,2.53
+276,somewhat likely,0,0,3.38
+277,unlikely,0,0,3.16
+278,somewhat likely,0,0,2.6
+279,unlikely,0,0,2.76
+280,unlikely,0,0,3.56
+281,unlikely,0,0,2.87
+282,somewhat likely,1,0,2.99
+283,unlikely,0,0,2.68
+284,unlikely,0,0,2.99
+285,somewhat likely,0,0,2.96
+286,unlikely,1,1,2.77
+287,somewhat likely,0,0,3.28
+288,unlikely,0,1,2.74
+289,unlikely,0,0,1.9
+290,unlikely,0,0,3.05
+291,somewhat likely,0,1,2.44
+292,somewhat likely,0,0,3.33
+293,somewhat likely,0,1,3.56
+294,unlikely,0,0,2.15
+295,unlikely,0,0,2.83
+296,somewhat likely,0,0,2.79
+297,somewhat likely,0,0,2.72
+298,very likely,1,0,3.04
+299,unlikely,0,1,3.03
+300,unlikely,0,0,2.88
+301,somewhat likely,0,0,3.21
+302,unlikely,0,0,2.74
+303,unlikely,0,0,3.57
+304,somewhat likely,0,0,2.43
+305,unlikely,0,0,3.11
+306,unlikely,0,0,2.76
+307,somewhat likely,0,0,3.13
+308,unlikely,0,0,2.75
+309,unlikely,0,0,2.6
+310,unlikely,0,0,3.67
+311,unlikely,0,0,3.26
+312,unlikely,0,0,3.41
+313,very likely,0,0,3.24
+314,unlikely,0,0,3.05
+315,somewhat likely,1,0,2.38
+316,somewhat likely,0,0,2.61
+317,somewhat likely,1,1,3.18
+318,unlikely,0,0,3.34
+319,somewhat likely,0,0,2.84
+320,unlikely,0,0,2.8
+321,unlikely,0,0,3.21
+322,unlikely,0,0,2.63
+323,unlikely,0,0,2.31
+324,unlikely,0,0,2.29
+325,unlikely,0,0,3.51
+326,somewhat likely,0,0,2.87
+327,unlikely,0,0,3.09
+328,somewhat likely,1,0,2.88
+329,unlikely,1,0,2.47
+330,somewhat likely,0,1,3.72
+331,unlikely,0,0,3.2
+332,somewhat likely,0,0,2.57
+333,unlikely,0,0,3.05
+334,unlikely,0,0,3.27
+335,unlikely,0,0,3.3
+336,unlikely,0,0,2.73
+337,unlikely,1,0,2.63
+338,unlikely,0,0,2.77
+339,unlikely,0,0,3.15
+340,unlikely,0,0,2.85
+341,unlikely,0,0,2.25
+342,somewhat likely,0,0,3.56
+343,unlikely,0,0,2.7
+344,very likely,0,0,2.94
+345,somewhat likely,1,0,2.58
+346,somewhat likely,0,0,2.97
+347,very likely,0,0,3.38
+348,very likely,0,0,2.96
+349,unlikely,0,0,2.44
+350,somewhat likely,0,1,3.75
+351,somewhat likely,0,0,3.07
+352,somewhat likely,0,0,2.72
+353,unlikely,0,0,3.13
+354,unlikely,0,0,3.39
+355,unlikely,0,1,2.38
+356,somewhat likely,0,0,2.87
+357,unlikely,0,1,2.91
+358,very likely,1,0,3.25
+359,somewhat likely,1,1,3.51
+360,unlikely,1,0,3.65
+361,somewhat likely,0,0,3.11
+362,very likely,0,0,2.71
+363,unlikely,0,0,3.05
+364,unlikely,0,0,2.93
+365,somewhat likely,0,0,2.35
+366,somewhat likely,0,0,2.49
+367,unlikely,0,0,3.26
+368,unlikely,0,0,3.77
+369,unlikely,0,1,3.49
+370,unlikely,0,0,3.39
+371,unlikely,0,0,3.37
+372,unlikely,0,0,1.98
+373,unlikely,1,0,2.93
+374,unlikely,0,0,3.36
+375,unlikely,0,0,3.12
+376,somewhat likely,0,0,3.23
+377,somewhat likely,0,1,3.9
+378,unlikely,0,0,2.7
+379,unlikely,0,0,2.34
+380,unlikely,0,0,3.3
+381,somewhat likely,0,0,3.11
+382,unlikely,0,0,3.14
+383,somewhat likely,1,0,3.68
+384,somewhat likely,0,0,2.22
+385,unlikely,0,0,2.61
+386,somewhat likely,0,1,3.48
+387,very likely,0,0,3.08
+388,unlikely,0,0,2.79
+389,unlikely,0,0,3.12
+390,unlikely,0,1,2.67
+391,somewhat likely,0,0,3.54
+392,very likely,0,0,2.98
+393,somewhat likely,1,0,3.32
+394,somewhat likely,1,0,3.54
+395,unlikely,0,0,3.7
+396,unlikely,0,0,2.63
+397,somewhat likely,0,0,2.25
+398,somewhat likely,0,0,3.26
+399,very likely,0,0,3.52
