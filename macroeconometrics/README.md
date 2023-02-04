@@ -1,4 +1,4 @@
-# Estudio de las principales herramientas para el estudio de series de tiempo
+# Series de tiempo
 Exploración y modelamiento de series de tiempo en Python. La principal guía del proyecto será el API Reference de la librería `statsmodels`: https://www.statsmodels.org/stable/api.html
 
 <p align="center">
