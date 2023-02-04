@@ -4,8 +4,8 @@
 
 
 ### Microeconometría: Corte Transversal y Datos Panel
-1. Modelo de regresión lineal.
-2. Otros temas de regresión.
+1. [Modelo de regresión lineal.](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/1%20LinealRegression.ipynb)
+2. [Otros temas de regresión.] (https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/2%20OtherLinearRegr.ipynb)
 3. Modelo lineal sin supuestos.
 4. Variable dependiente binominal.
 5. Variable dependiente multinomial.
