@@ -16,6 +16,9 @@ El estudio de modelos de corte trasversal y datos panel se divide por los siguie
 
 
 ## Libros
-1. Gujarati, D. y Dawn, P. (2010). _Econometría_. Quinta Edición. México: McGraw Hill.
-2. Greene, W. (2003). _Econometric Analysis_. Quinta Edición. New Jersey: Prentice Hall.
-3. Wooldridge, J. (2015). _Introducción a la Econometría: Un enfoque moderno_. Quinta edición. México: Cengage Learning.
+1. Angrist, J. y Pischke, J. (2009). _Mostly Harmless Econometrics: An Empiricist’s Companion_. Princeton: Princeton University Press.
+2. Gujarati, D. y Dawn, P. (2010). _Econometría_. Quinta Edición. México: McGraw Hill.
+3. Greene, W. (2003). _Econometric Analysis_. Quinta Edición. New Jersey: Prentice Hall.
+4. Wooldridge, J. (2015). _Introducción a la Econometría: Un enfoque moderno_. Quinta edición. México: Cengage Learning.
+5. Remler, D. y Van Ryzin, G. (2015). _Research Methods in Practice_. Strategies for Description and Causation. Sage Publications.
+6. Wooldridge, J. (2012). _Econometric Analysis of Cross Section and Panel Data_.
