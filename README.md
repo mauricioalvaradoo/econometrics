@@ -3,10 +3,16 @@
 ### Estadística Inferencial
 
 
+### Microeconometría: Corte Transversal y Datos Panel
+1. Modelo de regresión lineal.
+2. Otros temas de regresión.
+3. Modelo lineal sin supuestos.
+4. Variable dependiente binominal.
+5. Variable dependiente multinomial.
+6. Datos panel.
+7. Evaluación de impacto.
 
 ### Macroeconometría: Series de tiempo
-Se divide por lo siguiente:
-
 1. Conceptos: desestacionalización, índices, entre otros.
 2. Series estacionarias.
 3. Series no estacionarias: raíz unitaria.
@@ -15,5 +21,3 @@ Se divide por lo siguiente:
 6. Filtros: HP, BK, CF, entre otros.
 7. Modelos de volatilidad: ARCH y GARCH.
 8. Econometría bayesiana.
-
-### Microeconometría: Corte Transversal y Datos Panel
