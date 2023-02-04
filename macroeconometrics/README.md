@@ -16,3 +16,11 @@ El estudio de series de tiempo se divide por lo siguiente:
 8. Econometría bayesiana
 
 Se usará las librerías `statsmodels` y `arch`.
+
+
+### Libros
+1. Enders, W. (2003). _Applied Econometric Time Series_, 2nd Edition, John Wiley, New York.
+1. Hamilton, J. D. (1994). _Time Series Analysis_, Princeton University Press.
+3. Koop, G. (2003). _Bayesian Econometrics_, John Wiley.
+4. Lütkepohl, H. (2005). _New Introduction to Multiple Time Series Analysis_. Springer.
+5. Martin, V., S. Hurn y D. Harris (2013). _Econometric Modelling with Time Series_. Specifiaction, Estimation and Testing, Cambridge University Press. 
