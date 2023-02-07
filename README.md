@@ -6,10 +6,11 @@ La econometría es la conjunción entre la Economía y la Estadística.
 ### Estadística Inferencial
 1. Probabilidad
 2. Distribuciones
-3. Estadística y Muestreo
-4. Estimación puntual
-5. Intervalos de confianza
-6. Pruebas de hipótesis
+3. Gráficas
+4. Estadística y Muestreo
+5. Estimación puntual
+6. Intervalos de confianza
+7. Pruebas de hipótesis
 
 ### Microeconometría: Corte Transversal y Datos Panel
 1. [Modelo de regresión lineal](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/1%20LinealRegression.ipynb)
