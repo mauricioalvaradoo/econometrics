@@ -30,5 +30,5 @@ La econometría es la conjunción entre la Economía y la Estadística.
 6. Filtro de Kalman
 7. [Filtros: HP, BK, CF, entre otros](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/7%20filters.ipynb)
 8. [Modelos de volatilidad: ARCH y GARCH](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/8%20volatility.ipynb)
-9. MacroPanel
+9. Datos Panel
 10. Econometría bayesiana

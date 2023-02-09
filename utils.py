@@ -3,7 +3,7 @@ import requests
 import numpy as np
 from statsmodels.tsa.arima_process import arma_generate_sample
 from arch import arch_model
-
+np.random.seed(19)
 
 
 def get_data(series, fechaini, fechafin):
@@ -91,6 +91,8 @@ def get_data(series, fechaini, fechafin):
 
 
 def define_arma_model(ar_p, ma_p, nsample=1_000):
+    np.random.seed(1904)
+    
     """ Generación de samples para proceso ARMA
     ar_p: list
         Coeficientes para proceso AR
