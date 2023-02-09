@@ -1,5 +1,5 @@
 # Corte transversal y Datos panel
-Exploración y modelamiento de variables mediante corte trasversal y datos panel. La principal guía del proyecto será el API Reference de la librería `statsmodels`: https://www.statsmodels.org/stable/api.html
+Exploración y modelamiento de variables mediante corte trasversal y datos panel. La principal guía del proyecto será el API Reference de la librería [statsmodels](https://www.statsmodels.org/stable/api.html):
 
 <p align="center">
   <img src="../figures/lineal_regr.png" width="600">
@@ -13,7 +13,6 @@ El estudio de modelos de corte trasversal y datos panel se divide por los siguie
 5. [Variable dependiente multinomial](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/5%20multinominal.ipynb)
 6. Datos panel
 7. Evaluación de impacto
-
 
 ## Libros
 1. Angrist, J. y Pischke, J. (2009). _Mostly Harmless Econometrics: An Empiricist’s Companion_. Princeton: Princeton University Press.
