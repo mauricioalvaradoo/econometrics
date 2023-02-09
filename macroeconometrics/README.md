@@ -2,7 +2,7 @@
 Exploración y modelamiento de series de tiempo en Python. La principal guía del proyecto será el API Reference de la librería `statsmodels`: https://www.statsmodels.org/stable/api.html
 
 <p align="center">
-  <img src="figures/time_series.png" width="800">
+  <img src="../figures/time_series.png" width="800">
 </p>
 
 El estudio de series de tiempo se divide por lo siguiente:

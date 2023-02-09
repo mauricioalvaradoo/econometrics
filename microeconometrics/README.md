@@ -2,7 +2,7 @@
 Exploración y modelamiento de variables mediante corte trasversal y datos panel. La principal guía del proyecto será el API Reference de la librería `statsmodels`: https://www.statsmodels.org/stable/api.html
 
 <p align="center">
-  <img src="figures/lineal_regr.png" width="600">
+  <img src="../figures/lineal_regr.png" width="600">
 </p>
 
 El estudio de modelos de corte trasversal y datos panel se divide por los siguientes:
