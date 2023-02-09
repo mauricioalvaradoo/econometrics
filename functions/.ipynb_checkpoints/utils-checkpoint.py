@@ -1,10 +1,10 @@
 import pandas as pd
 import requests
-import numpy as np
-from statsmodels.tsa.arima_process import arma_generate_sample
+
 
 
 def get_data(series, fechaini, fechafin):
+
     """ Importar multiples series de la API del BCRP
     
     Parámetros
@@ -86,26 +86,3 @@ def get_data(series, fechaini, fechafin):
                 pass
 
     return df
-
-
-def define_arma_model(ar_p, ma_p, nsample=1_000):
-    """ Generación de samples para proceso ARMA
-    ar_p: list
-        Coeficientes para proceso AR
-    ma_p: list
-        Coeficientes para proceso MA
-    nsamples= int
-        Número de samples    
-    """
-    
-    ar_p = np.array(ar_p)
-    ma_p = np.array(ma_p)
-
-    # Incluyo una constante. Para el caso del AR debo colocarlo en negativo
-    ar = np.r_[1, -ar_p]
-    ma = np.r_[1, ma_p]
-
-    serie = arma_generate_sample(ar, ma, nsample=nsample)
-    serie = pd.Series(serie)
-    
-    return serie
