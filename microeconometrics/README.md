@@ -6,11 +6,11 @@ Exploración y modelamiento de variables mediante corte trasversal y datos panel
 </p>
 
 El estudio de modelos de corte trasversal y datos panel se divide por los siguientes:
-1. [Modelo de regresión lineal](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/1%20LinealRegression.ipynb)
-2. [Otros temas de regresión](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/2%20OtherLinearRegr.ipynb)
-3. [Modelo lineal sin supuestos](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/3%20NoAssumptions.ipynb)
-4. [Variable dependiente binominal](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/4%20BinomialEndog.ipynb)
-5. [Variable dependiente multinomial](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/5%20MultinominalEndog.ipynb)
+1. [Modelo de regresión lineal](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/1%20linreg.ipynb)
+2. [Otros temas de regresión](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/2%20others_linreg.ipynb)
+3. [Modelo lineal sin supuestos](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/3%20no_assumptions.ipynb)
+4. [Variable dependiente binominal](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/4%20binomial.ipynb)
+5. [Variable dependiente multinomial](https://github.com/mauricioalvaradoo/econometrics/blob/main/microeconometrics/5%20multinominal.ipynb)
 6. Datos panel
 7. Evaluación de impacto
 

@@ -6,14 +6,16 @@ Exploración y modelamiento de series de tiempo en Python. La principal guía de
 </p>
 
 El estudio de series de tiempo se divide por lo siguiente:
-1. [Conceptos: desestacionalización, índices, entre otros](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/1%20Introduction.ipynb)
-2. [Series estacionarias](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/2%20Stationary.ipynb)
-3. [Series no estacionarias: raíz unitaria](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/3%20UnitRoot.ipynb)
-4. [Modelos multivariados: VAR y SVAR](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/4%20Multivariate.ipynb)
-5. [Cointegración](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/5%20Cointegration.ipynb)
-6. [Filtros: HP, BK, CF, entre otros](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/6%20Filters.ipynb)
-7. [Modelos de volatilidad: ARCH y GARCH](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/7%20Volatilily.ipynb)
-8. Econometría bayesiana
+1. [Conceptos: desestacionalización, índices, entre otros](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/1%20intro.ipynb)
+2. [Series estacionarias](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/2%20arma.ipynb)
+3. [Series no estacionarias: raíz unitaria](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/3%20unit_root.ipynb)
+4. [Modelos multivariados: VAR y SVAR](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/4%20multivariate.ipynb)
+5. [Cointegración](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/5%20cointegration.ipynb)
+6. Filtro de Kalman
+7. [Filtros: HP, BK, CF, entre otros](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/7%20filters.ipynb)
+8. [Modelos de volatilidad: ARCH y GARCH](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/8%20volatilily.ipynb)
+9. MacroPanel
+10. Econometría bayesiana
 
 Se usará las librerías `statsmodels` y `arch`.
 
