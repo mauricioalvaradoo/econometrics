@@ -1,5 +1,5 @@
 # Series de tiempo
-Exploración y modelamiento de series de tiempo en Python. La principal guía del proyecto será el API Reference de la librería `statsmodels`: https://www.statsmodels.org/stable/api.html
+Exploración y modelamiento de series de tiempo en Python. La principal guía del proyecto será el API Reference de la librería [statsmodels](https://www.statsmodels.org/stable/api.html) y [arch](https://pypi.org/project/arch/):
 
 <p align="center">
   <img src="../figures/time_series.png" width="800">
@@ -16,9 +16,6 @@ El estudio de series de tiempo se divide por lo siguiente:
 8. [Modelos de volatilidad: ARCH y GARCH](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/8%20volatility.ipynb)
 9. MacroPanel
 10. Econometría bayesiana
-
-Se usará las librerías `statsmodels` y `arch`.
-
 
 ## Libros
 1. Enders, W. (2003). _Applied Econometric Time Series_, 2nd Edition, John Wiley, New York.
