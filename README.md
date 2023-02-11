@@ -4,8 +4,8 @@ La econometría es la conjunción entre la Economía y la Estadística.
 
 ## Ruta de estudio
 ### Estadística Inferencial
-1. Probabilidad
-2. Distribuciones
+1. [Probabilidad](https://github.com/mauricioalvaradoo/econometrics/blob/main/inferential-statistics/1%20probability.ipynb)
+2. [Distribuciones](https://github.com/mauricioalvaradoo/econometrics/blob/main/inferential-statistics/2%20distributions.ipynb)
 3. Figuras
 4. Estadística y Muestreo
 5. Estimación puntual: MM, MV y MCO 
