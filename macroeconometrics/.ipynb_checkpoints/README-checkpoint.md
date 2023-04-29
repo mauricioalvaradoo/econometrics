@@ -13,10 +13,9 @@ El estudio de series de tiempo se divide por lo siguiente:
 5. [Cointegración](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/5%20cointegration.ipynb)
 6. Filtro de Kalman
 7. [Filtros: HP, BK, CF, entre otros](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/7%20filters.ipynb)
-8. [Volatilidad condicional: ARCH y GARCH](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/8%20volatility.ipynb)
+8. [Modelos de volatilidad: ARCH y GARCH](https://github.com/mauricioalvaradoo/econometrics/blob/main/macroeconometrics/8%20volatility.ipynb)
 9. MacroPanel
 10. Econometría bayesiana
-11. Volatilidad estocástica
 
 ## Libros
 1. Enders, W. (2003). _Applied Econometric Time Series_, 2nd Edition, John Wiley, New York.
